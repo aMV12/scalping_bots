@@ -1,0 +1,899 @@
+Время ошибки,Тип и место ошибки
+2023-05-20 07:00:08,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 07:00:05,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 07:00:01,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 06:30:08,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 06:30:05,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 06:30:02,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 06:00:07,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 06:00:04,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 06:00:01,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 05:30:08,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 05:30:04,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 05:30:01,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 05:00:10,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 05:00:06,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 05:00:02,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 04:30:10,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 04:30:07,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 04:30:03,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 04:00:10,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 04:00:06,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 03:30:09,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 03:30:06,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 02:00:10,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 02:00:06,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 02:00:03,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 01:30:10,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 01:30:07,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 01:30:03,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 01:00:10,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 01:00:06,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 00:30:11,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 00:30:07,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 00:30:03,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 00:00:10,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 00:00:06,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-20 00:00:03,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-19 23:30:10,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_16636/3390208643.py"", line 76, in <module>
+    max_min = max_min_building(_MINETS_, _INTERVAL_, levels_full)
+TypeError: max_min_building() missing 1 required positional argument: 'df_klines_start'
+"
+2023-05-23 08:28:43,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1443152951.py"", line 44, in <module>
+    tick_size = float(BOT_LIST[bot_number].futuresExchangeInfo()['symbols'][number_in_info]['filters'][0]['tickSize'])
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/2016936279.py"", line 77, in wrapper
+    return self.call_api(**kwargs)
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/2016936279.py"", line 116, in call_api
+    return response.json()
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\models.py"", line 910, in json
+    return complexjson.loads(self.text, **kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\json\__init__.py"", line 346, in loads
+    return _default_decoder.decode(s)
+  File ""C:\Users\agd01\anaconda3\lib\json\decoder.py"", line 337, in decode
+    obj, end = self.raw_decode(s, idx=_w(s, 0).end())
+  File ""C:\Users\agd01\anaconda3\lib\json\decoder.py"", line 355, in raw_decode
+    raise JSONDecodeError(""Expecting value"", s, err.value) from None
+json.decoder.JSONDecodeError: Expecting value: line 1 column 1 (char 0)
+"
+2023-05-23 05:34:17,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1443152951.py"", line 129, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 06:36:12,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/3793218186.py"", line 147, in <module>
+    print('nearest_max', float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_max, nearest_close_max, fuchers_last_price <= nearest_max)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 06:36:08,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/3793218186.py"", line 129, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 04:54:14,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/3793218186.py"", line 147, in <module>
+    print('nearest_max', float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_max, nearest_close_max, fuchers_last_price <= nearest_max)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-28 13:18:09,"Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 174, in _new_conn
+    conn = connection.create_connection(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\connection.py"", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File ""C:\Users\agd01\anaconda3\lib\socket.py"", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 699, in urlopen
+    httplib_response = self._make_request(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 382, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 1010, in _validate_conn
+    conn.connect()
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 358, in connect
+    conn = self._new_conn()
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x0000021D45A08820>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\adapters.py"", line 439, in send
+    resp = conn.urlopen(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 755, in urlopen
+    retries = retries.increment(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\retry.py"", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/ticker/price?symbol=DOGEUSDT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000021D45A08820>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 156, in <module>
+    fuchers_last_price = float(BOT_LIST[bot_number].futuresPrice(symbol=_SYMBOL_)['price'])
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/2016936279.py"", line 77, in wrapper
+    return self.call_api(**kwargs)
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/2016936279.py"", line 111, in call_api
+    response = requests.request(method=self.methods[command]['method'], url=api_url, data="""" if self.methods[command]['method'] == 'GET' else payload_str, headers=headers)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\api.py"", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\sessions.py"", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\sessions.py"", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\adapters.py"", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/ticker/price?symbol=DOGEUSDT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000021D45A08820>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+"
+2023-05-28 12:21:38,"Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 174, in _new_conn
+    conn = connection.create_connection(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\connection.py"", line 96, in create_connection
+    raise err
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\connection.py"", line 86, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 699, in urlopen
+    httplib_response = self._make_request(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 382, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 1010, in _validate_conn
+    conn.connect()
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 358, in connect
+    conn = self._new_conn()
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x0000021D686D10A0>: Failed to establish a new connection: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\adapters.py"", line 439, in send
+    resp = conn.urlopen(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 755, in urlopen
+    retries = retries.increment(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\retry.py"", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=DOGEUSDT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000021D686D10A0>: Failed to establish a new connection: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 198, in <module>
+    profit, start_sum, right_answer, false_answer = main_algorithm_1('отскок', 'bids', profit, lots, taker, right_answer, false_answer, start_sum, maker, parts, glass, old_glass_count, tick_size, new_glass, gap, stop_loss, take_profit, change_for_new_stop_loss, nearest_bids, mean_for_rebound_bids)
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/3046287496.py"", line 173, in main_algorithm_1
+    spot_last_price = float(bot.tickerPrice(symbol=_SYMBOL_)['price'])
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/2016936279.py"", line 77, in wrapper
+    return self.call_api(**kwargs)
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/2016936279.py"", line 111, in call_api
+    response = requests.request(method=self.methods[command]['method'], url=api_url, data="""" if self.methods[command]['method'] == 'GET' else payload_str, headers=headers)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\api.py"", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\sessions.py"", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\sessions.py"", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\adapters.py"", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=DOGEUSDT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000021D686D10A0>: Failed to establish a new connection: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера'))
+"
+2023-05-28 10:58:22,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-28 03:41:13,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-28 02:05:32,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-27 23:05:50,"Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 699, in urlopen
+    httplib_response = self._make_request(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 382, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 1010, in _validate_conn
+    conn.connect()
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 416, in connect
+    self.sock = ssl_wrap_socket(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\ssl_.py"", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\ssl_.py"", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File ""C:\Users\agd01\anaconda3\lib\ssl.py"", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File ""C:\Users\agd01\anaconda3\lib\ssl.py"", line 1040, in _create
+    self.do_handshake()
+  File ""C:\Users\agd01\anaconda3\lib\ssl.py"", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+ConnectionResetError: [WinError 10054] Удаленный хост принудительно разорвал существующее подключение
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\adapters.py"", line 439, in send
+    resp = conn.urlopen(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 755, in urlopen
+    retries = retries.increment(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\retry.py"", line 532, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\packages\six.py"", line 769, in reraise
+    raise value.with_traceback(tb)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 699, in urlopen
+    httplib_response = self._make_request(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 382, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 1010, in _validate_conn
+    conn.connect()
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 416, in connect
+    self.sock = ssl_wrap_socket(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\ssl_.py"", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\ssl_.py"", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File ""C:\Users\agd01\anaconda3\lib\ssl.py"", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File ""C:\Users\agd01\anaconda3\lib\ssl.py"", line 1040, in _create
+    self.do_handshake()
+  File ""C:\Users\agd01\anaconda3\lib\ssl.py"", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+urllib3.exceptions.ProtocolError: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 192, in <module>
+    profit, start_sum, right_answer, false_answer = main_algorithm_2('пробой', 'bids', profit, lots, taker, right_answer, false_answer, start_sum, maker, parts, glass, old_glass_count, tick_size, new_glass, gap, stop_loss, take_profit, change_for_new_stop_loss, nearest_asks, mean_for_rebound_bids)
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/3046287496.py"", line 240, in main_algorithm_2
+    spot_last_price = float(bot.tickerPrice(symbol=_SYMBOL_)['price'])
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/2016936279.py"", line 77, in wrapper
+    return self.call_api(**kwargs)
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/2016936279.py"", line 111, in call_api
+    response = requests.request(method=self.methods[command]['method'], url=api_url, data="""" if self.methods[command]['method'] == 'GET' else payload_str, headers=headers)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\api.py"", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\sessions.py"", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\sessions.py"", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\adapters.py"", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', ConnectionResetError(10054, 'Удаленный хост принудительно разорвал существующее подключение', None, 10054, None))
+"
+2023-05-27 17:15:48,"Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 174, in _new_conn
+    conn = connection.create_connection(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\connection.py"", line 96, in create_connection
+    raise err
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\connection.py"", line 86, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 699, in urlopen
+    httplib_response = self._make_request(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 382, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 1010, in _validate_conn
+    conn.connect()
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 358, in connect
+    conn = self._new_conn()
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x0000021D45A08BE0>: Failed to establish a new connection: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\adapters.py"", line 439, in send
+    resp = conn.urlopen(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 755, in urlopen
+    retries = retries.increment(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\retry.py"", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=DOGEUSDT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000021D45A08BE0>: Failed to establish a new connection: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 204, in <module>
+    profit, start_sum, right_answer, false_answer = main_algorithm_2('отскок', 'asks', profit, lots, taker, right_answer, false_answer, start_sum, maker, parts, glass, old_glass_count, tick_size, new_glass, gap, stop_loss, take_profit, change_for_new_stop_loss, nearest_asks, mean_for_rebound_asks)
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/3046287496.py"", line 240, in main_algorithm_2
+    spot_last_price = float(bot.tickerPrice(symbol=_SYMBOL_)['price'])
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/2016936279.py"", line 77, in wrapper
+    return self.call_api(**kwargs)
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/2016936279.py"", line 111, in call_api
+    response = requests.request(method=self.methods[command]['method'], url=api_url, data="""" if self.methods[command]['method'] == 'GET' else payload_str, headers=headers)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\api.py"", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\sessions.py"", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\sessions.py"", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\adapters.py"", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=DOGEUSDT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000021D45A08BE0>: Failed to establish a new connection: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера'))
+"
+2023-05-27 02:18:28,"Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 174, in _new_conn
+    conn = connection.create_connection(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\connection.py"", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File ""C:\Users\agd01\anaconda3\lib\socket.py"", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 699, in urlopen
+    httplib_response = self._make_request(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 382, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 1010, in _validate_conn
+    conn.connect()
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 358, in connect
+    conn = self._new_conn()
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x0000021D45A08E20>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\adapters.py"", line 439, in send
+    resp = conn.urlopen(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 755, in urlopen
+    retries = retries.increment(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\retry.py"", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/ticker/price?symbol=DOGEUSDT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000021D45A08E20>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 208, in <module>
+    fuchers_last_price = float(BOT_LIST[bot_number].futuresPrice(symbol = _SYMBOL_)['price'])
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/2016936279.py"", line 77, in wrapper
+    return self.call_api(**kwargs)
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/2016936279.py"", line 111, in call_api
+    response = requests.request(method=self.methods[command]['method'], url=api_url, data="""" if self.methods[command]['method'] == 'GET' else payload_str, headers=headers)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\api.py"", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\sessions.py"", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\sessions.py"", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\adapters.py"", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/ticker/price?symbol=DOGEUSDT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000021D45A08E20>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+"
+2023-05-26 11:11:54,"Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 174, in _new_conn
+    conn = connection.create_connection(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\connection.py"", line 96, in create_connection
+    raise err
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\connection.py"", line 86, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 699, in urlopen
+    httplib_response = self._make_request(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 382, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 1010, in _validate_conn
+    conn.connect()
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 358, in connect
+    conn = self._new_conn()
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x0000021D45A08940>: Failed to establish a new connection: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\adapters.py"", line 439, in send
+    resp = conn.urlopen(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 755, in urlopen
+    retries = retries.increment(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\retry.py"", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=DOGEUSDT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000021D45A08940>: Failed to establish a new connection: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 204, in <module>
+    profit, start_sum, right_answer, false_answer = main_algorithm_2('отскок', 'asks', profit, lots, taker, right_answer, false_answer, start_sum, maker, parts, glass, old_glass_count, tick_size, new_glass, gap, stop_loss, take_profit, change_for_new_stop_loss, nearest_asks, mean_for_rebound_asks)
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/3046287496.py"", line 240, in main_algorithm_2
+    spot_last_price = float(bot.tickerPrice(symbol=_SYMBOL_)['price'])
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/2016936279.py"", line 77, in wrapper
+    return self.call_api(**kwargs)
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/2016936279.py"", line 111, in call_api
+    response = requests.request(method=self.methods[command]['method'], url=api_url, data="""" if self.methods[command]['method'] == 'GET' else payload_str, headers=headers)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\api.py"", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\sessions.py"", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\sessions.py"", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\adapters.py"", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=DOGEUSDT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000021D45A08940>: Failed to establish a new connection: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера'))
+"
+2023-05-26 01:20:13,"Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 174, in _new_conn
+    conn = connection.create_connection(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\connection.py"", line 96, in create_connection
+    raise err
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\connection.py"", line 86, in create_connection
+    sock.connect(sa)
+TimeoutError: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 699, in urlopen
+    httplib_response = self._make_request(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 382, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 1010, in _validate_conn
+    conn.connect()
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 358, in connect
+    conn = self._new_conn()
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x0000021C45A85C70>: Failed to establish a new connection: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\adapters.py"", line 439, in send
+    resp = conn.urlopen(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 755, in urlopen
+    retries = retries.increment(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\retry.py"", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=DOGEUSDT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000021C45A85C70>: Failed to establish a new connection: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 182, in <module>
+    profit, start_sum, right_answer, false_answer = main_algorithm_1('пробой', 'asks', profit, lots, taker, right_answer, false_answer, start_sum, maker, parts, glass, old_glass_count, tick_size, new_glass, gap, stop_loss, take_profit, change_for_new_stop_loss, nearest_bids, mean_for_rebound_asks)
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/3046287496.py"", line 173, in main_algorithm_1
+    spot_last_price = float(bot.tickerPrice(symbol=_SYMBOL_)['price'])
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/2016936279.py"", line 77, in wrapper
+    return self.call_api(**kwargs)
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/2016936279.py"", line 111, in call_api
+    response = requests.request(method=self.methods[command]['method'], url=api_url, data="""" if self.methods[command]['method'] == 'GET' else payload_str, headers=headers)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\api.py"", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\sessions.py"", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\sessions.py"", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\adapters.py"", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='api.binance.com', port=443): Max retries exceeded with url: /api/v3/ticker/price?symbol=DOGEUSDT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x0000021C45A85C70>: Failed to establish a new connection: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера'))
+"
+2023-05-25 22:10:18,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-25 22:06:57,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 148, in <module>
+    print('nearest_max', float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_max, nearest_close_max, fuchers_last_price <= nearest_max)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-25 19:59:15,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 148, in <module>
+    print('nearest_max', float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_max, nearest_close_max, fuchers_last_price <= nearest_max)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-25 13:36:48,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-25 06:03:49,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-25 04:33:13,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-25 04:29:13,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-25 04:26:41,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-25 04:26:38,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 148, in <module>
+    print('nearest_max', float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_max, nearest_close_max, fuchers_last_price <= nearest_max)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-25 04:26:34,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-25 04:26:30,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-25 04:26:17,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 148, in <module>
+    print('nearest_max', float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_max, nearest_close_max, fuchers_last_price <= nearest_max)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-25 04:26:13,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 148, in <module>
+    print('nearest_max', float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_max, nearest_close_max, fuchers_last_price <= nearest_max)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-25 04:26:10,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 148, in <module>
+    print('nearest_max', float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_max, nearest_close_max, fuchers_last_price <= nearest_max)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-25 04:25:56,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-25 00:22:34,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 17:31:51,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 17:18:56,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 17:08:09,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 17:07:14,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 148, in <module>
+    print('nearest_max', float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_max, nearest_close_max, fuchers_last_price <= nearest_max)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 17:06:50,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 16:53:29,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 148, in <module>
+    print('nearest_max', float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_max, nearest_close_max, fuchers_last_price <= nearest_max)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 16:53:25,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 148, in <module>
+    print('nearest_max', float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_max, nearest_close_max, fuchers_last_price <= nearest_max)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 16:53:12,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 16:53:08,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 16:52:55,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 16:52:22,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 16:52:18,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 16:52:14,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 148, in <module>
+    print('nearest_max', float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_max, nearest_close_max, fuchers_last_price <= nearest_max)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 16:51:31,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 16:50:27,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 148, in <module>
+    print('nearest_max', float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_max, nearest_close_max, fuchers_last_price <= nearest_max)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 16:50:23,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 16:50:20,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 148, in <module>
+    print('nearest_max', float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_max, nearest_close_max, fuchers_last_price <= nearest_max)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 16:50:16,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 130, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 16:42:52,"Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 699, in urlopen
+    httplib_response = self._make_request(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 382, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 1010, in _validate_conn
+    conn.connect()
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 416, in connect
+    self.sock = ssl_wrap_socket(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\ssl_.py"", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\ssl_.py"", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File ""C:\Users\agd01\anaconda3\lib\ssl.py"", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File ""C:\Users\agd01\anaconda3\lib\ssl.py"", line 1040, in _create
+    self.do_handshake()
+  File ""C:\Users\agd01\anaconda3\lib\ssl.py"", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+TimeoutError: [WinError 10060] Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\adapters.py"", line 439, in send
+    resp = conn.urlopen(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 755, in urlopen
+    retries = retries.increment(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\retry.py"", line 532, in increment
+    raise six.reraise(type(error), error, _stacktrace)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\packages\six.py"", line 769, in reraise
+    raise value.with_traceback(tb)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 699, in urlopen
+    httplib_response = self._make_request(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 382, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 1010, in _validate_conn
+    conn.connect()
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 416, in connect
+    self.sock = ssl_wrap_socket(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\ssl_.py"", line 449, in ssl_wrap_socket
+    ssl_sock = _ssl_wrap_socket_impl(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\ssl_.py"", line 493, in _ssl_wrap_socket_impl
+    return ssl_context.wrap_socket(sock, server_hostname=server_hostname)
+  File ""C:\Users\agd01\anaconda3\lib\ssl.py"", line 500, in wrap_socket
+    return self.sslsocket_class._create(
+  File ""C:\Users\agd01\anaconda3\lib\ssl.py"", line 1040, in _create
+    self.do_handshake()
+  File ""C:\Users\agd01\anaconda3\lib\ssl.py"", line 1309, in do_handshake
+    self._sslobj.do_handshake()
+urllib3.exceptions.ProtocolError: ('Connection aborted.', TimeoutError(10060, 'Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера', None, 10060, None))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/1680832755.py"", line 44, in <module>
+    fuchers_last_price = float(BOT_LIST[bot_number].futuresPrice(symbol=_SYMBOL_)['price'])
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/2016936279.py"", line 77, in wrapper
+    return self.call_api(**kwargs)
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/2016936279.py"", line 111, in call_api
+    response = requests.request(method=self.methods[command]['method'], url=api_url, data="""" if self.methods[command]['method'] == 'GET' else payload_str, headers=headers)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\api.py"", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\sessions.py"", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\sessions.py"", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\adapters.py"", line 498, in send
+    raise ConnectionError(err, request=request)
+requests.exceptions.ConnectionError: ('Connection aborted.', TimeoutError(10060, 'Попытка установить соединение была безуспешной, т.к. от другого компьютера за требуемое время не получен нужный отклик, или было разорвано уже установленное соединение из-за неверного отклика уже подключенного компьютера', None, 10060, None))
+"
+2023-05-24 06:36:12,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/3793218186.py"", line 147, in <module>
+    print('nearest_max', float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_max, nearest_close_max, fuchers_last_price <= nearest_max)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 06:36:08,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/3793218186.py"", line 129, in <module>
+    print('nearest_min', float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_min, nearest_close_min, fuchers_last_price >= nearest_min)
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-05-24 04:54:14,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_7428/3793218186.py"", line 147, in <module>
+    print('nearest_max', float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, np.mean(bids_asks_list_vol)*how_more_mean_vol_for_breakdown, nearest_max, nearest_close_max, fuchers_last_price <= nearest_max)
+TypeError: 'NoneType' object is not subscriptable
+"

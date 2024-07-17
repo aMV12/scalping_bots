@@ -1,0 +1,700 @@
+Время ошибки,Тип и место ошибки
+2023-07-06 18:24:59,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-06 17:57:31,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:57:22,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:57:20,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:57:17,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:57:15,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:57:13,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:57:11,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:57:08,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:57:06,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:57:03,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:57:01,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:56:59,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:56:56,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:56:54,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:56:52,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:56:50,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:11:26,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-06 17:10:36,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-06 17:09:00,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:08:57,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:08:55,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:08:53,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:08:50,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:08:48,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:08:46,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 201, in <module>
+    is_nearest_bids_in_nearest_close_min_list == False and nearest_bids not in before_nearest_bids_list:
+NameError: name 'before_nearest_bids_list' is not defined
+"
+2023-07-06 17:03:03,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-06 15:06:35,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-06 14:57:41,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-06 14:57:11,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-06 14:57:09,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-06 14:57:06,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-06 14:54:46,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-06 14:42:30,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-06 12:47:43,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-06 10:34:38,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-06 05:11:22,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 23:07:41,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 21:56:18,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 18:53:08,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 16:16:34,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:43:38,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:40:20,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:39:00,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:38:54,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:38:52,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:38:49,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:38:47,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:38:38,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:38:32,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:38:12,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:38:06,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:38:01,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:37:58,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:37:52,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:37:43,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:37:34,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:37:32,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:37:29,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:37:27,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:37:25,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:37:22,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:37:20,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:37:18,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 13:34:23,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-05 10:47:32,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-04 22:15:26,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-04 22:14:32,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-04 22:14:26,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-04 22:07:57,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-04 21:09:33,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-04 13:17:14,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-04 05:55:56,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-04 00:25:39,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-04 00:04:56,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-03 19:39:08,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-03 19:07:38,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-03 18:47:44,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-03 14:51:00,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-03 09:20:27,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-03 07:11:04,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-03 03:12:13,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-03 01:43:17,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-03 01:43:14,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-03 01:26:05,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:25:30,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:25:27,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:25:25,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:25:23,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:25:19,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:25:15,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:25:11,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:25:08,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:25:04,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:25:00,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:24:58,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:24:19,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:24:16,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:24:12,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:24:09,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:24:05,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:24:02,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:23:59,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:23:56,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:23:50,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:23:06,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:22:59,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:22:57,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:22:54,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:22:52,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:22:49,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:22:47,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:22:45,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:22:42,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:22:40,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:22:38,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:22:35,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:22:33,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:22:31,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:22:28,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:22:26,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-03 01:21:43,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 213, in <module>
+    is_nearest_asks_in_nearest_close_max_list == False and nearest_asks not in before_nearest_asks_list:
+NameError: name 'before_nearest_asks_list' is not defined
+"
+2023-07-02 19:10:29,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-02 18:25:36,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-02 18:24:33,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-02 18:24:27,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-02 18:24:10,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-02 18:24:08,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 149, in <module>
+    if float(find_list(format(nearest_max, f'.{price_precision}f'), glass['bids'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-02 18:23:31,"Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 131, in <module>
+    if float(find_list(format(nearest_min, f'.{price_precision}f'), glass['asks'])[1][1]) >= np.mean(
+TypeError: 'NoneType' object is not subscriptable
+"
+2023-07-02 15:25:21,"Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 174, in _new_conn
+    conn = connection.create_connection(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\connection.py"", line 73, in create_connection
+    for res in socket.getaddrinfo(host, port, family, socket.SOCK_STREAM):
+  File ""C:\Users\agd01\anaconda3\lib\socket.py"", line 954, in getaddrinfo
+    for res in _socket.getaddrinfo(host, port, family, type, proto, flags):
+socket.gaierror: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 699, in urlopen
+    httplib_response = self._make_request(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 382, in _make_request
+    self._validate_conn(conn)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 1010, in _validate_conn
+    conn.connect()
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 358, in connect
+    conn = self._new_conn()
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connection.py"", line 186, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPSConnection object at 0x000001A254D5F7F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\adapters.py"", line 439, in send
+    resp = conn.urlopen(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\connectionpool.py"", line 755, in urlopen
+    retries = retries.increment(
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\urllib3\util\retry.py"", line 574, in increment
+    raise MaxRetryError(_pool, url, error or ResponseError(cause))
+urllib3.exceptions.MaxRetryError: HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/depth?symbol=DOGEUSDT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001A254D5F7F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/1602893643.py"", line 53, in <module>
+    glass = BOT_LIST[bot_number].futuresDepth(symbol=_SYMBOL_)
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/4056873118.py"", line 77, in wrapper
+    return self.call_api(**kwargs)
+  File ""C:\Users\agd01\AppData\Local\Temp/ipykernel_1692/4056873118.py"", line 112, in call_api
+    response = requests.request(method=self.methods[command]['method'], url=api_url,
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\api.py"", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\sessions.py"", line 542, in request
+    resp = self.send(prep, **send_kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\sessions.py"", line 655, in send
+    r = adapter.send(request, **kwargs)
+  File ""C:\Users\agd01\anaconda3\lib\site-packages\requests\adapters.py"", line 516, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPSConnectionPool(host='fapi.binance.com', port=443): Max retries exceeded with url: /fapi/v1/depth?symbol=DOGEUSDT (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x000001A254D5F7F0>: Failed to establish a new connection: [Errno 11001] getaddrinfo failed'))
+"
